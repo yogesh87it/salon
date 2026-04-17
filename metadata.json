@@ -1,0 +1,8 @@
+{
+  "name": "Luxe Aura | Luxury Salon Goa",
+  "description": "Premium hair and beauty salon in Goa, India, offering minimalist quiet luxury services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
